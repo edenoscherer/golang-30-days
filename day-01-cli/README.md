@@ -24,7 +24,7 @@ Se não estiver instalado:
 mkdir golang-30-days
 cd golang-30-days
 
-go mod init github.com/seu-usuario/golang-30-days
+go mod init github.com/edenoscherer/golang-30-days
 ```
 
 ---

@@ -1,0 +1,4 @@
+# binários Go
+*/app
+*.exe
+*.out
